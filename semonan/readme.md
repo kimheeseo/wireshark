@@ -9,3 +9,8 @@
 
 4. 무선 통신의 원리와 특징 (통신 개념 잡기 2편)
 - https://www.youtube.com/watch?v=xw7T1D6Lq38&list=WL&index=37
+
+5. Ethernet과 TCP/UDP 통신 (통신 개념 잡기 3편) {no.36}
+- https://www.youtube.com/watch?v=5WaM1-Fz38g&list=WL&index=38
+
+6.ㅇㄹㄴㅇㄹ
