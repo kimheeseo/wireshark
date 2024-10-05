@@ -13,5 +13,5 @@
 5. Ethernet과 TCP/UDP 통신 (통신 개념 잡기 3편) {no.36}
 - https://www.youtube.com/watch?v=5WaM1-Fz38g&list=WL&index=38
 
-6.TCP통신 구현을 위한 통신 흐름 이해 (통신 개념 잡기 4편) {no.37}
+6. TCP통신 구현을 위한 통신 흐름 이해 (통신 개념 잡기 4편) {no.37}
 - https://www.youtube.com/watch?v=t4_zZ2-CojY&list=WL&index=37
