@@ -27,3 +27,6 @@
 
 9.패킷에 Comment를 달아 나만의 분석 결과 만들기
 - https://www.youtube.com/watch?v=UWZUtNFNjhQ&list=PL1jdJcP6uQttMt4D7dzNmab4FSflAzySp&index=10
+
++) 와이어샤크와 네트워크마이너를 이용한 패킷 분석 활용법 정리
+- https://www.youtube.com/watch?v=6q6aGla69oY&list=PL1jdJcP6uQttMt4D7dzNmab4FSflAzySp&index=17
