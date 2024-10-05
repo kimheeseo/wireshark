@@ -15,3 +15,6 @@
 
 6. TCP통신 구현을 위한 통신 흐름 이해 (통신 개념 잡기 4편) {no.37}
 - https://www.youtube.com/watch?v=t4_zZ2-CojY&list=WL&index=37
+
+7. 통신 프로토콜 설계 하는 방법 {no.98}
+- https://www.youtube.com/watch?v=RSWNhKglwG4&list=WL&index=37
